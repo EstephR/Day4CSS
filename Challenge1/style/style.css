@@ -32,6 +32,22 @@ body {
     float: left;
 }
 
+.arrow,
+.city,
+.temperature {
+    padding-top: 20px;
+}
+
+#newslogo {
+    padding-top: 12px;
+}
+
+.weathernews {
+    margin-left: 10%;
+    padding: 20px;
+    ;
+}
+
 .CoronaInfo {
     clear: both;
 }
