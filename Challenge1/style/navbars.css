@@ -22,3 +22,18 @@
 #current {
     opacity: 0.5;
 }
+
+.mainfooter ul {
+    padding: 5px;
+}
+
+.mainfooter li {
+    float: left;
+    padding: 15px;
+}
+
+.mainfooter li a {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
