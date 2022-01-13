@@ -1,0 +1,15 @@
+.sectionHeadline h3 {
+    color: #333333;
+    text-transform: uppercase;
+}
+
+.sectionHeadline {
+    float: left;
+    width: 40%;
+    margin-top: 50px;
+}
+
+.sectionLines {
+    float: right;
+    width: 60%;
+}

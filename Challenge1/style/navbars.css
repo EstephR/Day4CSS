@@ -29,6 +29,10 @@ a {
     opacity: 0.5;
 }
 
+.mainfooter {
+    clear: both;
+}
+
 .mainfooter ul {
     padding: 15px;
     background-color: #123e65;

@@ -19,6 +19,7 @@ body {
 #newslogo {
     font-size: 20pt;
     float: left;
+    color: white;
 }
 
 .weathernews {
@@ -35,6 +36,7 @@ body {
 .weatherIcon,
 .temperature {
     float: left;
+    color: white;
 }
 
 .arrow,
@@ -88,3 +90,9 @@ body {
 p {
     margin: 0 auto;
 }
+
+main {
+    line-height: 1.5em;
+}
+
+.section1 {}
