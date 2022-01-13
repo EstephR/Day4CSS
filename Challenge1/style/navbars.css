@@ -1,0 +1,24 @@
+.navbar ul {
+    padding: 5px;
+}
+
+.navbar {
+    background-color: #466f9d;
+}
+
+.navbar li {
+    display: inline;
+    padding: 15px;
+    /* border: 1px black solid; */
+    font-size: 11pt;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#current {
+    opacity: 0.5;
+}
