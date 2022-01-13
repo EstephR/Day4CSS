@@ -22,4 +22,16 @@ body {
 
 .mainlogo {
     width: 40%;
+    float: left;
+}
+
+.arrow,
+.city,
+.weatherIcon,
+.temperature {
+    float: left;
+}
+
+.CoronaInfo {
+    clear: both;
 }
