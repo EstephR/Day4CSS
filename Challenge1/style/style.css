@@ -45,9 +45,32 @@ body {
 .weathernews {
     margin-left: 10%;
     padding: 20px;
-    ;
+    height: 70px;
 }
 
 .CoronaInfo {
     clear: both;
+    background-color: #466f9d;
+    width: 100%;
+    text-align: end;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.covid li {
+    display: inline;
+    list-style: none;
+    margin: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.covid ul {
+    background-color: #466f9d;
+    padding: 10px;
+}
+
+p {
+    margin: 0 auto;
 }
